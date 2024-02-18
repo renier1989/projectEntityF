@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "r:\\VisualStudioRepos\\projectEF\\projectEF.csproj": {}
+    "R:\\VisualStudioRepos\\projectEF\\projectEF.csproj": {}
   },
   "projects": {
-    "r:\\VisualStudioRepos\\projectEF\\projectEF.csproj": {
+    "R:\\VisualStudioRepos\\projectEF\\projectEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "r:\\VisualStudioRepos\\projectEF\\projectEF.csproj",
+        "projectUniqueName": "R:\\VisualStudioRepos\\projectEF\\projectEF.csproj",
         "projectName": "projectEF",
-        "projectPath": "r:\\VisualStudioRepos\\projectEF\\projectEF.csproj",
+        "projectPath": "R:\\VisualStudioRepos\\projectEF\\projectEF.csproj",
         "packagesPath": "C:\\Users\\Renier y Nancy\\.nuget\\packages\\",
-        "outputPath": "r:\\VisualStudioRepos\\projectEF\\obj\\",
+        "outputPath": "R:\\VisualStudioRepos\\projectEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Renier y Nancy\\AppData\\Roaming\\NuGet\\NuGet.Config",
